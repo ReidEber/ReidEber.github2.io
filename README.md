@@ -1,6 +1,6 @@
 # ReidEber.github2.io
 Project 2 Mirror interface<br>
-The base elevator I used which is filled with multiple faults that make the elevator subpar compared to a more precise design.<br>
+
 
 <h2>Idea Sketch</h1><br>
 <img src ="https://user-images.githubusercontent.com/114603576/202349244-e13e6524-7be1-47de-905c-cb483a3aaab3.jpeg" width = "400"> <br>
